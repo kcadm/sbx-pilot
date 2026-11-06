@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
   "product": "docker-sandboxes",
-  "version": "0.51.0",
+  "version": "0.50.0",
   "sha256": "1ab45fd1c93d30ceec6fdb228da7698b8b1eebc25cf969027b83a437cef415f9"
 }
